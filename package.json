@@ -1,0 +1,22 @@
+{
+  "name": "alpha-api",
+  "version": "1.0.0",
+  "description": "API for the Alpha 1s robot form UBTECH",
+  "main": "alpha-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dtanguy/Alpha-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dtanguy/Alpha-API/issues"
+  },
+  "homepage": "https://github.com/Dtanguy/Alpha-API#readme",
+  "dependencies": {
+    "node-hid": "^0.5.7"
+  }
+}
